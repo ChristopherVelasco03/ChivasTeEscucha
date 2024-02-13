@@ -4,6 +4,9 @@ web: https://chivas-te-escucha.onrender.com
 
 ¡Bienvenido a RedChiva, el espacio donde las preguntas se convierten en respuestas y los usuarios permanecen en el anonimato! En Chivas Te Escucha, nos comprometemos a proporcionar un espacio seguro y confidencial para que los amantes de las chivas expresen sus pensamientos, inquietudes y opiniones sobre el rendimiento de estos majestuosos animales.
 
+![image](https://github.com/ChristopherVelasco03/ChivasTeEscucha/assets/155390541/91b8a15a-0e04-4ae3-8d5f-900e81af9e71)
+
+
 ## ¿Qué es RedChiva?
 
 RedChiva es más que un blog; es una comunidad dedicada a explorar el mundo de las chivas y a entender sus diversos aspectos. Aquí, los usuarios pueden realizar preguntas de manera anónima y obtener respuestas fundamentadas por parte de expertos y apasionados por las chivas.
